@@ -4,10 +4,10 @@
 Este é um projeto simples de uma lista de tarefas (To-Do List) com a funcionalidade de adicionar tarefas e incluir imagens relacionadas a cada tarefa.
 
 ### Funcionalidades
-. Adicionar novas tarefas à lista.
-. Anexar imagens às tarefas.
-. Editar o texto das tarefas.
-. Excluir tarefas da lista.
+* Adicionar novas tarefas à lista.
+* Anexar imagens às tarefas.
+* Editar o texto das tarefas.
+* Excluir tarefas da lista.
 ### Como Usar
 * Insira o nome da tarefa no campo de texto.
 * Você pode opcionalmente adicionar uma imagem relacionada à tarefa utilizando o botão de upload de imagem.
